@@ -5,6 +5,11 @@ The template files of WooCommerce contain the markup and template structure for 
 http://joomquery.com for details
 
 in this folder will help you to creat full responsive wordpress theme with WooCommerce shop page
+
 1. Creat Wordpress bootstrap responsive theme
+
 2. installation WooCommerce plugin
+
 3. WooCommerce overriding templates via a theme and shop page, cart page, checkout page
+
+
