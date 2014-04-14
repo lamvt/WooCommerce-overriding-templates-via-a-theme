@@ -13,3 +13,6 @@ in this folder will help you to creat full responsive wordpress theme with WooCo
 3. WooCommerce overriding templates via a theme and shop page, cart page, checkout page
 
 
+WordPress makes it easy and inexpensive to create a professional and attractive restaurant, cafe, coffee shop, pub or bar website.
+
+
