@@ -1,6 +1,6 @@
-<?php $options = get_option( 'kimvy_theme_options' ); ?> 
+<?php $options = get_option( 'd4j_theme_options' ); ?> 
 <!DOCTYPE html>
-<html lang="en">
+<html <?php language_attributes(); ?>>
   <head>
 	<title>
 	<?php
